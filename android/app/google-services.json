@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1095153426857",
+    "project_id": "itpm-unklab",
+    "storage_bucket": "itpm-unklab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095153426857:android:f0676a5d6ca28d019124b8",
+        "android_client_info": {
+          "package_name": "com.anandaaditya.ipmitpm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095153426857-m4r7saujqa8be95lgnbhlr728jerqtf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anandaaditya.ipmitpm",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1095153426857-vu5gc64umtsok5goj9d118lo7renq2fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxyTgJiqOJWGoSgdOJcx5HO4KFFYJfkJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095153426857-vu5gc64umtsok5goj9d118lo7renq2fe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1095153426857-u27gcquvnm7jnnv4vanqp786jv7uk4e7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anandaaditya.ipmitpm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
