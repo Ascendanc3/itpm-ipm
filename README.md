@@ -1,10 +1,13 @@
-# IPMitpm
+# Aplikasi IPM Berbasis Cloud
 
-A new Flutter project.
+Project Kelas ITPM 
 
-## Getting Started
+# UI 
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+![WhatsApp Image 2022-06-15 at 1 01 41 PM (1)](https://user-images.githubusercontent.com/53120949/173740310-28333b41-cfc5-4107-8d70-96b6111f23cc.jpeg)
+![WhatsApp Image 2022-06-15 at 1 01 41 PM](https://user-images.githubusercontent.com/53120949/173740317-380c4891-2a75-498f-9604-dda607adf385.jpeg)
+![WhatsApp Image 2022-06-15 at 1 01 41 PM (2)](https://user-images.githubusercontent.com/53120949/173740321-24f86e91-6b36-4e4a-a934-3ae90b9726a0.jpeg)
+
 
 ### IMPORTANT:
 
@@ -15,7 +18,6 @@ flutter pub get
 flutter packages pub run build_runner build --delete-conflicting-outputs
 ```
 
-This command creates the generated files that parse each Record from Firestore into a schema object.
 
 ### Getting started continued:
 
